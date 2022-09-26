@@ -1,0 +1,15 @@
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.csproj.AssemblyReference.cache
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.AssemblyInfoInputs.cache
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.AssemblyInfo.cs
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.csproj.CoreCompileInputs.cache
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\bin\Debug\net6.0\blma-bank.exe
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\bin\Debug\net6.0\blma-bank.deps.json
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\bin\Debug\net6.0\blma-bank.runtimeconfig.json
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\bin\Debug\net6.0\blma-bank.dll
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\bin\Debug\net6.0\blma-bank.pdb
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.dll
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\refint\blma-bank.dll
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.pdb
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\blma-bank.genruntimeconfig.cache
+C:\Users\Sigtrans_04\Documents\Estudo\blma-bank\obj\Debug\net6.0\ref\blma-bank.dll
