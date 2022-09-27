@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sigtrans_04\\.nuget\\packages\\": {}
+    "C:\\Users\\brend\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sigtrans_04\\Documents\\Estudo\\blma-bank\\blma-bank.csproj",
+      "projectUniqueName": "C:\\Users\\brend\\Desktop\\Projects\\Estudo\\BLMA-bank\\blma-bank\\blma-bank.csproj",
       "projectName": "blma-bank",
-      "projectPath": "C:\\Users\\Sigtrans_04\\Documents\\Estudo\\blma-bank\\blma-bank.csproj",
-      "packagesPath": "C:\\Users\\Sigtrans_04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sigtrans_04\\Documents\\Estudo\\blma-bank\\obj\\",
+      "projectPath": "C:\\Users\\brend\\Desktop\\Projects\\Estudo\\BLMA-bank\\blma-bank\\blma-bank.csproj",
+      "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brend\\Desktop\\Projects\\Estudo\\BLMA-bank\\blma-bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sigtrans_04\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
