@@ -28,10 +28,35 @@ Console.WriteLine("Boas vinda ao seu banco, BLMA Bank");
 // Console.WriteLine("Saldo do Rafael pós-transferência: " + conta2.saldo);
 // Console.WriteLine("Saldo do Brendon pós-transferência: " + conta1.saldo);
 
-Cliente cliente = new Cliente();
-cliente.nome = "Brendon Melo";
-cliente.cpf = "123456789";
-cliente.profissao = "Desenvolvedor";
+// Cliente cliente = new Cliente();
+// cliente.nome = "Brendon Melo";
+// cliente.cpf = "123456789";
+// cliente.profissao = "Desenvolvedor";
+
+// ContaCorrente conta3 = new ContaCorrente();
+// conta3.titular = new Cliente();
+// conta3.titular.nome = "Brendon Melo";
+// conta3.titular.profissao = "Dev Back-end";
+// conta3.titular.cpf = "123456789";
+// conta3.conta = "2513252-X";
+// conta3.numero_agencia = 35;
+// conta3.nome_agencia = "Agencia central";
+
+// Console.WriteLine(conta3.titular.nome);
+
+// if (conta3.titular == null)
+// {
+//     Console.WriteLine("O campo titular está nulo");
+// }
+Cliente sarah = new Cliente();
+ContaCorrente conta4 = new ContaCorrente(235, "123456-X");
+conta4.Saldo = 100;
+conta4.Titular = sarah;
+
+Console.WriteLine(conta4.Titular.nome);
+Console.WriteLine(conta4.Saldo);
+Console.WriteLine(conta4.Numero_agencia);
+Console.WriteLine(conta4.Conta);
 
 Console.ReadKey();
 
