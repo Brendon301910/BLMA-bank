@@ -48,15 +48,20 @@ Console.WriteLine("Boas vinda ao seu banco, BLMA Bank");
 // {
 //     Console.WriteLine("O campo titular está nulo");
 // }
-Cliente sarah = new Cliente();
-ContaCorrente conta4 = new ContaCorrente(235, "123456-X");
-conta4.Saldo = 100;
-conta4.Titular = sarah;
+// Cliente sarah = new Cliente();
+// ContaCorrente conta4 = new ContaCorrente(235, "123456-X");
+// conta4.Saldo = 100;
+// conta4.Titular = sarah;
 
-Console.WriteLine(conta4.Titular.nome);
-Console.WriteLine(conta4.Saldo);
-Console.WriteLine(conta4.Numero_agencia);
-Console.WriteLine(conta4.Conta);
+// Console.WriteLine(conta4.Titular.nome);
+// Console.WriteLine(conta4.Saldo);
+// Console.WriteLine(conta4.Numero_agencia);
+// Console.WriteLine(conta4.Conta);
+
+ContaCorrente conta5 = new ContaCorrente(236, "123456-X");
+ContaCorrente conta6 = new ContaCorrente(237, "654321-X");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
 
 Console.ReadKey();
 
